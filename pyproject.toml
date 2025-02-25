@@ -2,9 +2,6 @@
 where = ["."]
 include = ["regtech", "projects"]
 
-[system-requirements]
-linux = "4.4.0"
-
 [project]
 name = "regtech"
 authors = [{name = "rhizomeai"}]
