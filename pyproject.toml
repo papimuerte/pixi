@@ -2,6 +2,7 @@
 where = ["."]
 include = ["regtech", "projects"]
 
+
 [project]
 name = "regtech"
 authors = [{name = "rhizomeai"}]
